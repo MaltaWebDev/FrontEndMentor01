@@ -132,11 +132,59 @@ body {
 
 @media only screen and (max-width: 375px) {
   .main-card {
-    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
     flex-direction: column;
-    width: 320px;
-    height: 400px;
+    width: 80%;
+    /* height: 400px; */
+  }
+
+  .rhs-of-card {
+    height: 360px;
+    width: 300px;
+    border-radius: 0 0 2% 2%;
+  }
+
+  .lhs-of-card {
+    height: 200px;
+    width: 300px;
+    background-image: url(images/image-product-mobile.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 2% 2% 0 0;
+  }
+
+  .small-bold {
+    padding: 10px 0 0 20px;
+    letter-spacing: 0.5rem;
+    font-size: 0.75rem;
+  }
+
+  .heading {
+    padding-bottom: 0;
+    padding-left: 20px;
+    font-size: 2rem;
+  }
+
+  .main-card-attribution {
+    display: none;
+  }
+
+  .text {
+    padding-bottom: 0;
+    padding-left: 20px;
+  }
+
+  .large-price {
+    padding-left: 20px;
+    font-size: 2rem;
+  }
+
+  .button-wrapper {
+    padding-top: 10px;
   }
 }
