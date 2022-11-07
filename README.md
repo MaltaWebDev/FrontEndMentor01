@@ -4,8 +4,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: https://github.com/MaltaWebDev/FrontEndMentor01
-- Live Site URL: https://maltawebdev.github.io/FrontEndMentor01/
+- Solution URL: https://github.com/MaltaWebDev/ProductCard
+- Live Site URL: https://maltawebdev.github.io/ProductCard
 
 ### Built with
 
