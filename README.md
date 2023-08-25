@@ -5,7 +5,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: https://github.com/MaltaWebDev/ProductCard
-- Live Site URL: https://maltawebdev.github.io/ProductCard
+- Live Site URL: https://angusgee.github.io/ProductCard
 
 ### Built with
 
